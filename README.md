@@ -1,3 +1,3 @@
 ### Preview
 
-Project Demo : [https://shahriar-rumel.github.io/expensetracker]
+Project Demo : [https://shahriar-rumel.github.io/ExpenseTracker]
